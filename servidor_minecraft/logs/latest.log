@@ -1,0 +1,252 @@
+[16:51:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:51:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[16:51:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:51:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[16:51:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - WorldEdit (7.3.10-beta-01+cb9fd58)
+[16:51:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:51:27] [ServerMain/INFO]: Loaded 1290 recipes
+[16:51:27] [ServerMain/INFO]: Loaded 1399 advancements
+[16:51:28] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:51:28] [Server thread/INFO]: Loading properties
+[16:51:28] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[16:51:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:51:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:51:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:51:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:51:30] [Server thread/INFO]: Default game type: SURVIVAL
+[16:51:30] [Server thread/INFO]: Generating keypair
+[16:51:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:51:30] [Server thread/INFO]: Using epoll channel type
+[16:51:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:51:30] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:51:30] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
+[16:51:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@27601656]
+[16:51:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:51:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
+[16:51:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:51:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:51:33] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[16:51:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:51:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:51:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:51:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:51:35] [Server thread/INFO]: Preparing level "world"
+[16:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:51:38] [Server thread/INFO]: Time elapsed: 1166 ms
+[16:51:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:51:38] [Server thread/INFO]: Time elapsed: 378 ms
+[16:51:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:51:40] [Server thread/INFO]: Time elapsed: 1497 ms
+[16:51:40] [Server thread/INFO]: [spark] Starting background profiler...
+[16:51:41] [Server thread/INFO]: Done preparing level "world" (5.569s)
+[16:51:41] [Server thread/INFO]: Running delayed init tasks
+[16:51:41] [Server thread/INFO]: Done (22.319s)! For help, type "help"
+[16:51:41] [Server thread/INFO]: Timings Reset
+[16:53:43] [User Authenticator #0/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[16:53:45] [Server thread/INFO]: EmilioZpa joined the game
+[16:53:45] [Server thread/INFO]: EmilioZpa[/127.128.212.85:38149] logged in with entity id 29 at ([world]1678.0171236691904, 67.0, -976.3000000119209)
+[16:56:28] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[16:56:28] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[16:56:34] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:56:34] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[16:59:00] [Server thread/INFO]: EmilioZpa was doomed to fall by EmilioZpa
+[16:59:03] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[16:59:03] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[16:59:26] [Server thread/INFO]: EmilioZpa was slain by Enderman
+[16:59:28] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[16:59:28] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:00:15] [Server thread/INFO]: EmilioZpa fell from a high place
+[17:00:19] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:00:19] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:02:19] [Server thread/INFO]: EmilioZpa fell from a high place
+[17:02:22] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:02:22] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:05:07] [Server thread/INFO]: EmilioZpa hit the ground too hard while trying to escape EmilioZpa
+[17:05:11] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:05:11] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:07:08] [Server thread/INFO]: EmilioZpa was doomed to fall by EmilioZpa
+[17:07:11] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:07:11] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:14:10] [Server thread/INFO]: EmilioZpa has made the advancement [Free the End]
+[17:16:31] [Server thread/INFO]: EmilioZpa has made the advancement [Remote Getaway]
+[17:16:43] [Async Chat Thread - #1/INFO]: [Not Secure] <EmilioZpa> 925
+[17:16:45] [Async Chat Thread - #1/INFO]: [Not Secure] <EmilioZpa> 70
+[17:16:50] [Async Chat Thread - #1/INFO]: [Not Secure] <EmilioZpa> -688
+[17:20:30] [User Authenticator #1/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[17:20:32] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[17:20:32] [Server thread/INFO]: EmilioZpa left the game
+[17:20:40] [Server thread/INFO]: pepito270624 joined the game
+[17:20:40] [Server thread/INFO]: pepito270624[/127.54.133.203:40019] logged in with entity id 4741 at ([world]1653.699999988079, 65.875, -969.6999999880791)
+[17:21:34] [User Authenticator #2/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[17:21:36] [Server thread/INFO]: EmilioZpa joined the game
+[17:21:36] [Server thread/INFO]: EmilioZpa[/127.128.212.85:50301] logged in with entity id 5131 at ([world_the_end]925.519082415315, 70.0, -694.2719591159872)
+[17:23:58] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[17:24:02] [Server thread/INFO]: Xxbraianproxx joined the game
+[17:24:02] [Server thread/INFO]: Xxbraianproxx[/127.166.244.112:55637] logged in with entity id 5557 at ([world]1677.699999988079, 66.0, -966.6999999880791)
+[17:25:24] [Async Chat Thread - #2/INFO]: [Not Secure] <EmilioZpa> 120 ~ -1240
+[17:26:25] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[17:26:25] [Server thread/INFO]: EmilioZpa left the game
+[17:26:43] [Server thread/INFO]: pepito270624 lost connection: Timed out
+[17:26:43] [Server thread/INFO]: pepito270624 left the game
+[17:27:30] [User Authenticator #4/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[17:27:32] [Server thread/INFO]: pepito270624 joined the game
+[17:27:32] [Server thread/INFO]: pepito270624[/127.54.133.203:47503] logged in with entity id 6148 at ([world]1679.7230685897857, 71.0, -964.9333104821611)
+[17:27:49] [User Authenticator #4/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[17:27:51] [Server thread/INFO]: EmilioZpa joined the game
+[17:27:51] [Server thread/INFO]: EmilioZpa[/127.128.212.85:56109] logged in with entity id 6210 at ([world_the_end]918.2727048497085, 65.0, -717.5841054431185)
+[17:28:40] [Server thread/INFO]: pepito270624 lost connection: Disconnected
+[17:28:40] [Server thread/INFO]: pepito270624 left the game
+[17:28:44] [User Authenticator #4/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[17:28:47] [Server thread/INFO]: pepito270624 joined the game
+[17:28:47] [Server thread/INFO]: pepito270624[/127.54.133.203:35191] logged in with entity id 6447 at ([world]1654.5368456687836, 69.0, -968.5221157364163)
+[17:29:00] [Server thread/INFO]: EmilioZpa was slain by Enderman
+[17:29:12] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:29:12] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:30:12] [Server thread/INFO]: EmilioZpa didn't want to live in the same world as Enderman
+[17:30:19] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:30:19] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:32:13] [Server thread/INFO]: EmilioZpa fell out of the world
+[17:32:20] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:32:20] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:32:21] [Server thread/INFO]: pepito270624 has made the advancement [The Parrots and the Bats]
+[17:34:10] [Async Chat Thread - #4/INFO]: [Not Secure] <EmilioZpa> 120 ~ -1240
+[17:34:18] [Server thread/INFO]: pepito270624 has made the advancement [A Seedy Place]
+[17:36:57] [Server thread/INFO]: EmilioZpa issued server command: /tp 120 ~ -1240
+[17:36:57] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 120.500000, 51.000000, -1239.500000]
+[17:36:59] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[17:36:59] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[17:37:09] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[17:37:09] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[17:37:29] [Server thread/INFO]: EmilioZpa issued server command: /tp 120 ~ -1240
+[17:37:29] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 120.500000, 57.000000, -1239.500000]
+[17:37:31] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[17:37:31] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[17:37:32] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[17:37:32] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[17:37:48] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[17:37:48] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[17:37:56] [Server thread/INFO]: EmilioZpa issued server command: /seed
+[17:38:14] [Server thread/INFO]: EmilioZpa issued server command: /tp 1064 ~ -1832
+[17:38:14] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 1064.500000, 61.000000, -1831.500000]
+[17:38:18] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[17:38:18] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[17:38:19] [Server thread/INFO]: EmilioZpa fell out of the world
+[17:38:30] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[17:38:30] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[17:38:32] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[17:38:32] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[17:38:38] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:38:38] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:39:14] [Async Chat Thread - #6/INFO]: [Not Secure] <EmilioZpa> braian
+[17:39:18] [Server thread/INFO]: EmilioZpa issued server command: /tp 1064 ~ -1832
+[17:39:18] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 1064.500000, 70.000000, -1831.500000]
+[17:39:19] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[17:39:19] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[17:39:45] [Server thread/INFO]: EmilioZpa issued server command: /tp -3448 ~ -3112
+[17:39:45] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -3447.500000, 77.840242, -3111.500000]
+[17:40:19] [Server thread/INFO]: EmilioZpa issued server command: /tp -584 ~ 6168
+[17:40:19] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -583.500000, 77.840242, 6168.500000]
+[17:40:40] [Server thread/INFO]: EmilioZpa issued server command: /tp 3661 ~ 3724
+[17:40:40] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 3661.500000, 77.840242, 3724.500000]
+[17:40:46] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[17:40:46] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[17:40:59] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:41:03] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:41:08] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:41:24] [Server thread/INFO]: EmilioZpa issued server command: /tp 925 -621
+[17:41:32] [Server thread/INFO]: EmilioZpa issued server command: /tp 925 70 -621
+[17:41:32] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 925.500000, 70.000000, -620.500000]
+[17:41:39] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:41:45] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa pepito270624
+[17:41:45] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to pepito270624]
+[17:41:48] [Server thread/INFO]: Xxbraianproxx was blown up by Creeper
+[17:42:06] [Async Chat Thread - #8/INFO]: [Not Secure] <pepito270624> emi
+[17:42:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Xxbraianproxx> estoy en el spawn
+[17:43:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Xxbraianproxx> emi tpame
+[17:43:09] [Async Chat Thread - #8/INFO]: [Not Secure] <EmilioZpa> unite a la llamada
+[17:43:23] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[17:43:23] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[17:43:52] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:43:52] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:44:03] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:44:12] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa pepito270624
+[17:44:12] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to pepito270624]
+[17:44:17] [Server thread/INFO]: EmilioZpa issued server command: /reload
+[17:44:17] [Server thread/INFO]: EmilioZpa: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[17:44:20] [Server thread/INFO]: EmilioZpa issued server command: /reload confirm
+[17:44:20] [Server thread/INFO]: EmilioZpa: Please note that this command is not supported and may cause issues when using some plugins.
+[17:44:20] [Server thread/INFO]: EmilioZpa: If you encounter any issues please use the /stop command to restart your server.
+[17:44:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:44:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:44:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
+[17:44:21] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:44:21] [Server thread/INFO]: Loaded 1290 recipes
+[17:44:21] [Server thread/INFO]: Loaded 1399 advancements
+[17:44:21] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:44:21] [Paper Async Command Builder Thread Pool - 12/ERROR]: Caught previously unhandled exception :
+[17:44:21] [Paper Async Command Builder Thread Pool - 12/ERROR]: Paper Async Command Builder Thread Pool - 12
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:44:21] [Server thread/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[17:44:21] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - WorldEdit (7.3.10-beta-01+cb9fd58)
+[17:44:21] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
+[17:44:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@686a6557]
+[17:44:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:44:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
+[17:44:23] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:44:23] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:44:23] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[17:44:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[17:44:26] [Server thread/INFO]: EmilioZpa: Reload complete.
+[17:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5450ms or 109 ticks behind
+[17:44:26] [Server thread/INFO]: Timings Reset
+[17:44:34] [Server thread/INFO]: EmilioZpa issued server command: /tp 395 15 -1707
+[17:44:34] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 395.500000, 15.000000, -1706.500000]
+[17:44:44] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:ancient_city
+[17:45:48] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[17:45:48] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[17:45:51] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[17:45:51] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[17:45:54] [Server thread/INFO]: EmilioZpa issued server command: /tp -21704 ~ -10808
+[17:45:54] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -21703.500000, 58.000000, -10807.500000]
+[17:46:30] [Server thread/INFO]: EmilioZpa lost connection: Timed out
+[17:46:30] [Server thread/INFO]: EmilioZpa left the game
+[17:46:46] [DimensionDataIO - ./world_the_end/DIM1 - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@528802cc
+java.nio.file.NoSuchFileException: ./world_the_end/DIM1/data/raids_end.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:48:10] [Server thread/INFO]: Xxbraianproxx was slain by Zombie
+[17:51:46] [DimensionDataIO - ./world_the_end/DIM1 - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@528802cc
+java.nio.file.NoSuchFileException: ./world_the_end/DIM1/data/raids_end.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:51:53] [Server thread/INFO]: Xxbraianproxx has made the advancement [Hot Stuff]
